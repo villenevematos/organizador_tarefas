@@ -1,4 +1,4 @@
-# Organizdor de Tarefas
+# Organizdor de Arquivos
 ### O que ele faz? 
 - Este script organiza uma pasta movendo arquivos para subpastas com base em suas extensões.
 ### Como Usar?
